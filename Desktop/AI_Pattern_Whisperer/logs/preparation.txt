@@ -1,0 +1,184 @@
+Thanks for the update! Since you **have only 2–3 days** (maybe less) to prepare for the **Infosys ICT Pre-Assessment Test**, you need a **crash strategy** — smart, focused, and highly effective.
+
+---
+
+## ⚡️ 3-Day Super Fast Infosys Pre-Assessment Crash Plan
+
+This plan focuses on **high-impact topics**, **mock tests**, and **pattern familiarity** — so you stand a real chance of getting selected in the top 65.
+
+---
+
+## 🎯 Day-wise Plan
+
+### 🔥 **Day 1: Aptitude + Logical Reasoning (Most Important Sections)**
+
+**Time Required**: 4–5 hours (you can split across morning + night)
+
+#### ✅ Focus Topics:
+
+* **Percentages, Time & Work, Profit & Loss, Averages**
+* **Number Series, Coding-Decoding, Puzzles**
+* **Blood Relations, Directions, Syllogisms**
+
+#### 📘 Resources:
+
+* ➤ [PrepInsta Infosys Aptitude Questions](https://prepinsta.com/infosys/aptitude/)
+* ➤ [IndiaBix Quantitative Aptitude](https://www.indiabix.com/aptitude/questions-and-answers/)
+* ➤ [IndiaBix Logical Reasoning](https://www.indiabix.com/logical-reasoning/questions-and-answers/)
+
+#### 💡 Tips:
+
+* Learn **basic formulas** and do 10–15 questions per topic.
+* Solve **1 full Aptitude + 1 full Reasoning section** from mock tests.
+
+---
+
+### 🔥 **Day 2: Verbal + Programming Logic (Pseudo Code)**
+
+**Time Required**: 4–5 hours
+
+#### ✅ Focus Areas:
+
+* **Grammar**: Error spotting, sentence correction
+* **Comprehension**: Practice 1–2 RCs
+* **Programming Logic**:
+
+  * Loops, Conditions, Output prediction
+  * Array problems, Simple recursion
+
+#### 📘 Resources:
+
+* ➤ [PrepInsta Infosys Verbal](https://prepinsta.com/infosys/verbal-ability/)
+* ➤ [GeeksforGeeks Pseudo Code](https://www.geeksforgeeks.org/c-programming-examples/) (Look at dry-run questions)
+* ➤ [HackerRank 10 Days of Code – Basics](https://www.hackerrank.com/domains/tutorials/10-days-of-code)
+
+#### 💡 Tips:
+
+* Focus on **accuracy in grammar questions**.
+* Practice **5 pseudo-code questions** from past Infosys sets.
+
+---
+
+### 🔥 **Day 3: Full Mock Test + Revision**
+
+**Time Required**: 4–6 hours
+
+#### 🧪 Mock Test
+
+* Take **one full-length Infosys mock test** with a timer.
+  ➤ [PrepInsta Infosys Mock Test](https://prepinsta.com/infosys/mock-test/)
+
+#### ✅ Revision Focus:
+
+* Revise the **key formulas** from Quant.
+* Solve **5 logic puzzles and 5 grammar questions**.
+* Practice 1–2 simple coding questions (Palindrome, Prime number, String reverse).
+
+---
+
+## 🧠 Most Repeated & High-Yield Questions (Practice These)
+
+### ✳️ Aptitude
+
+* Time and Work → "A can do a job in 10 days..."
+* Speed & Distance → "Train crosses platform..."
+* Percentages → "What is x% of y?"
+* Profit & Loss → "SP, CP problems"
+
+### ✳️ Reasoning
+
+* Number Series: Find the missing number
+* Direction Problems: "A walks north then east..."
+* Coding-Decoding: “If CAT = DBU…”
+* Puzzle: Seating in circular or linear arrangement
+
+### ✳️ Verbal
+
+* Spot the error: “He go to school yesterday.”
+* Fill in the blank: “Although she was tired, \_\_\_.”
+* RC: Look for keywords, don’t overthink
+
+That's a great decision! Here's a **complete, focused preparation plan** for the **ICT Infosys Pre-Assessment Exam**, including resources, time allocation, and tips.
+
+---
+
+## 🎯 **Preparation Plan for ICT INFOSYS Pre-Assessment Exam**
+
+### 📅 Duration: **5–7 Days (Crash Plan)**
+
+Spend **3–4 hours/day** if you’re short on time.
+
+---
+
+## 🧩 DAY-WISE STUDY PLAN
+
+### ✅ **Day 1: Quantitative Aptitude - Part 1**
+
+* Percentages & Profit/Loss
+* Ratio & Proportion
+* Averages & Mixtures
+* Practice 15–20 questions per topic
+  **🔗 Practice**: [https://www.indiabix.com/aptitude/questions-and-answers/](https://www.indiabix.com/aptitude/questions-and-answers/)
+
+---
+
+### ✅ **Day 2: Quantitative Aptitude - Part 2**
+
+* Time & Work
+* Time, Speed & Distance
+* Permutations & Probability
+* Data Interpretation (Tables, Graphs)
+  **🔗 Mock Test**: [PrepInsta Quant Test](https://prepinsta.com/infosys/quantitative-aptitude/)
+
+---
+
+### ✅ **Day 3: Logical Reasoning**
+
+* Seating Arrangements
+* Blood Relations
+* Coding-Decoding
+* Puzzles
+* Syllogisms
+  **🔗 Practice**: [https://www.indiabix.com/logical-reasoning/questions-and-answers/](https://www.indiabix.com/logical-reasoning/questions-and-answers/)
+
+---
+
+### ✅ **Day 4: Verbal Ability**
+
+* Reading Comprehension
+* Sentence Correction & Spotting Errors
+* Vocabulary (Synonyms/Antonyms)
+* Para Jumbles
+  **🔗 Practice**: [https://testbook.com/questions/english-grammar](https://testbook.com/questions/english-grammar)
+
+---
+
+### ✅ **Day 5: Technical Basics (Only for CS/IT)**
+
+* C/C++ or Python Basics (If you’re comfortable)
+* Data Structures – Arrays, Strings
+* OOP Concepts
+* Basic SQL Queries
+  **🔗 GeeksforGeeks CS Basics**: [https://www.geeksforgeeks.org/fundamentals-of-algorithms/](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+---
+
+### ✅ **Day 6: Full-Length Mock Tests**
+
+* Take **2–3 full mock tests**
+* Analyze your mistakes
+* Work on weak areas
+  **🔗 Infosys Mock Test (PrepInsta)**: [https://prepinsta.com/infosys/](https://prepinsta.com/infosys/)
+
+---
+
+### ✅ **Day 7: Soft Skills & Revision**
+
+* Practice “Tell Me About Yourself”
+* Revisit notes, flashcards
+* Practice interview questions
+  **🔗 Soft Skills**: [https://www.mindtools.com/pages/main/newMN\_TCS.htm](https://www.mindtools.com/pages/main/newMN_TCS.htm)
+
+
+
+
